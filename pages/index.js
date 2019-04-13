@@ -12,7 +12,7 @@ export default () => {
     },
     {
       date: "12/04/2019",
-      event: "Tram Anh ",
+      event: "Pew Pew",
       location: "VN",
       tag: "code"
     }
